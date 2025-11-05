@@ -36,6 +36,3 @@
 💼 **LinkedIn:** [linkedin.com/in/jaimecasanovarubio](https://www.linkedin.com/in/jaimecasanovarubio/) 
 
 ---
-
-🧘‍♀️ *"La vida es un diez por ciento como la hacemos y un noventa por ciento como la tomamos"*  
-— Irving Berlín.
