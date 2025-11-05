@@ -1,4 +1,4 @@
-#  ¡Hola! Soy Jaime Casanova Rubio 🦇
+#   Buenas! Soy Jaime Casanova Rubio 
 
 🎓 **Estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma (DAM)**  
 
@@ -8,10 +8,10 @@
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 Mis actividades
 
 🔹 Actualmente aprendiendo **Java**, **Kotlin (Android Studio)**, **SQL**, **HTML**, y **CSS**  
-🔹 Interesado en el **backend**, la **inteligencia artificial** y la **robótica**  
+🔹 Me estoy informando sobre **backend**, la **inteligencia artificial**
 🔹 Estoy trabajando en mi **Trabajo fin de grado**  
 🔹 Me gusta mantenerme activo, ya sea haciendo deporte o jugando.🏋️🎬🐶  
 
