@@ -1,6 +1,7 @@
 #  ¡Hola! Soy Jaime Casanova Rubio 🦇
 
 🎓 **Estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+
 💻 Apasionado por la **tecnología**, el **desarrollo de software**
 
 ⚙️ Me encanta aprender cosas nuevas, crear proyectos útiles y mejorar mis habilidades cada día.  
