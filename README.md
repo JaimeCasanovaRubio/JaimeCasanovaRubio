@@ -1,7 +1,7 @@
 #  ¡Hola! Soy Jaime Casanova Rubio 🦇
 
 🎓 **Estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-💻 Apasionado por la **tecnología**, el **desarrollo de software** y la **ciberseguridad**.  
+💻 Apasionado por la **tecnología**, el **desarrollo de software**. 
 ⚙️ Me encanta aprender cosas nuevas, crear proyectos útiles y mejorar mis habilidades cada día.  
 
 ---
@@ -10,8 +10,8 @@
 
 🔹 Actualmente aprendiendo **Java**, **Kotlin (Android Studio)**, **SQL**, **HTML**, y **CSS**  
 🔹 Interesado en el **backend**, la **inteligencia artificial** y la **robótica**  
-🔹 Disfruto trabajando con **metodologías ágiles** como *Scrum*  
-🔹 Me gusta el entrenamiento, el baloncesto y las peliculas de terror.🏋️🎬🐶  
+🔹 Me siento comodo trabajando con **metodologías ágiles** como *Scrum*  
+🔹 Me gusta mantenerme activo, ya sea haciendo deporte o jugando.🏋️🎬🐶  
 
 ---
 
